@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Navi33
-- 👀 I’m interested in Video Games and Anime. A total Weeaboo
-- 🌱 I’m currently learning HTML/CSS with JS. Struggling with design as it is not my forte. 
-- 💞️ I’m looking to collaborate on anything really. I just don't know how yet. Hopefully as i learn how to use Git and GitHub i can contribute to this amazing community.
-- 📫 How to reach me here at github. Haven't made any professional social media yet.
+- 👋 Hi, I’m @Navi33 and I am coming back for the Nth time to learn programming.
+- 👀 I'm currently working in a different industry and looking to transition to an IT path this year.
+- 🌱 I'm have been relearning HTML/CSS/JS for a quite a while and the only think i lack is consistency and persistence.
+- 💞️ I’m looking to collaborate on anything to somene to share code with and get feedback. Hopefully thru GitHub and to contribute to this amazing community.
+- 📫 My Contacts are still in the works. 
 
 <!---
 Navi33/Navi33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
