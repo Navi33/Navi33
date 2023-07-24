@@ -2,19 +2,10 @@
 
 ### Hello World! 👋
 
-I'm Ivan Defeo, a soon to be Software Engineer from my hometown.
+I'm Ivan Defeo, a soon to be Software Engineer from South East Asia.
 
-- 🌱 I’m currently learning [Topics or Skills you are learning]
-- 👯 I’m looking to collaborate on [Projects you are interested in collaborating on]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Contact Information]
-
-#### Some of my skills include:
-
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
+- 🌱 I’m currently learning how to learn.
+- 💬 Ask me about Games and Tech.
 
 #### My GitHub Stats
 
