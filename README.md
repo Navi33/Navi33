@@ -2,10 +2,12 @@
 
 ### Hello World! 👋
 
-I'm Ivan Defeo, a soon to be Software Engineer from South East Asia.
+I'm Ivan Defeo, just learning everything about how web development for now. No pressure. Small steps.
 
-- 🌱 I’m currently learning how to learn.
-- 💬 Ask me about Games and Tech.
+- 👀 I'm currently working in a different industry and looking to transition to an IT path this year.
+- 🌱 I'm have started  HTML/CSS/JS for from zero knowledge perspective. Baby steps.
+- 💞️ I’m looking to collaborate on anything to somene to share code with and get feedback in the future. For now self learning comes first.
+- 📫 Not updated the contacts yet. TBA
 
 #### My GitHub Stats
 
